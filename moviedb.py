@@ -97,6 +97,14 @@ class MovieDB:
         return nf['id']
 
     
+    def delFilm(self,fid):
+        return self.mData.pop(fid)
+
+
+    def getFilm(self,fid):
+        return self.mData.get(fid)
+
+
     def setFilmAttr(self,fid,key,val):
         f = self.mData.get(fid)
         if f is not None:

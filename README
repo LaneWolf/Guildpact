@@ -2,3 +2,12 @@ GUILDPACT
 
 Guildpact is movie collection database. It allows you catalogize your media
 files spread accross different storage.
+
+1. Language setup
+
+Directory lang contains source files for guildpact translation. Used is python
+gettext module (see http://docs.python.org/library/gettext.html).
+
+Source files can be converted into used binary form by command:
+
+msgfmt lang.file

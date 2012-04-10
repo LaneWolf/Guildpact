@@ -1,0 +1,91 @@
+domain "guildpact"
+
+# Menu entry for information about application
+# form_main_window.py
+msgid "About"
+msgstr "O programu"
+
+# Button text for adding new record
+# form_main_window.py
+msgid "AddMovie"
+msgstr "Přidat film"
+
+# Application name displayed in title
+# form_main_window.py
+msgid "AppName"
+msgstr "Guildpact"
+
+# Menu entry for closing currently opened database
+# form_main_window.py
+msgid "CloseDB"
+msgstr "Zavřít databázi"
+
+# Menu entry for database related options
+# form_main_widnow.py
+msgid "DatabaseMenu"
+msgstr "Databáze"
+
+# Button text for displaying details of selected record
+# form_main_window.py
+msgid "EditMovie"
+msgstr "Upravit film"
+
+# Button text for filtr button if some filtr is applied
+# form_main_window.py
+msgid "FiltrButtonFiltrOn"
+msgstr "Zrušit filtr"
+
+# Button text for filtr button if no filtr applied
+# form_main_window.py
+msgid "FiltrButtonNoFiltr"
+msgstr "Filtrovat"
+
+# Menu entry for opening help
+# form_main_window.py
+msgid "Help"
+msgstr "Nápověda"
+
+# Menu entry for help related menu
+# form_main_window.py
+msgid "HelpMenu"
+msgstr "Nápověda"
+
+# Button text for displaying details of selected record
+# form_main_window.py
+msgid "MovieDetails"
+msgstr "Detaily filmu"
+
+# Header for movie list
+# from_main_window.py
+msgid "MovieHeader"
+msgstr "Filmy"
+
+# Menu entry for movie related menu
+# form_main_window.py
+msgid "MovieMenu"
+msgstr "Film"
+
+# Menu entry for creating new database
+# form_main_window.py
+msgid "NewDB"
+msgstr "Nová databáze"
+
+# Menu entry for opening database
+# form_main_window.py
+msgid "OpenDB"
+msgstr "Otevřít databázi"
+
+# Button text for quiting application
+# form_main_window.py
+msgid "QuitApp"
+msgstr "Konec"
+
+# Button text for removing selected record
+# form_main_window.py
+msgid "RemoveMovie"
+msgstr "Odstranit film"
+
+# Button text for saving database
+# form_main_window.py
+msgid "SaveDB"
+msgstr "Uložit databázi"

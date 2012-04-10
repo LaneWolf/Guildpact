@@ -1,0 +1,91 @@
+domain "guildpact"
+
+# Menu entry for information about application
+# form_main_window.py
+msgid "About"
+msgstr "About"
+
+# Button text for adding new record
+# form_main_window.py
+msgid "AddMovie"
+msgstr "Add movie"
+
+# Application name displayed in title
+# form_main_window.py
+msgid "AppName"
+msgstr "Guildpact"
+
+# Menu entry for closing currently opened database
+# form_main_window.py
+msgid "CloseDB"
+msgstr "Close database"
+
+# Menu entry for database related options
+# form_main_widnow.py
+msgid "DatabaseMenu"
+msgstr "Database"
+
+# Button text for displaying details of selected record
+# form_main_window.py
+msgid "EditMovie"
+msgstr "Edit movie"
+
+# Button text for filtr button if some filtr is applied
+# form_main_window.py
+msgid "FiltrButtonFiltrOn"
+msgstr "Cancel filter"
+
+# Button text for filtr button if no filtr applied
+# form_main_window.py
+msgid "FiltrButtonNoFiltr"
+msgstr "Filter"
+
+# Menu entry for opening help
+# form_main_window.py
+msgid "Help"
+msgstr "Help"
+
+# Menu entry for help related menu
+# form_main_window.py
+msgid "HelpMenu"
+msgstr "Help"
+
+# Button text for displaying details of selected record
+# form_main_window.py
+msgid "MovieDetails"
+msgstr "Movie details"
+
+# Header for movie list
+# from_main_window.py
+msgid "MovieHeader"
+msgstr "Movies"
+
+# Menu entry for movie related menu
+# form_main_window.py
+msgid "MovieMenu"
+msgstr "Movie"
+
+# Menu entry for creating new database
+# form_main_window.py
+msgid "NewDB"
+msgstr "New database"
+
+# Menu entry for opening database
+# form_main_window.py
+msgid "OpenDB"
+msgstr "Open database"
+
+# Button text for quiting application
+# form_main_window.py
+msgid "QuitApp"
+msgstr "Quit"
+
+# Button text for removing selected record
+# form_main_window.py
+msgid "RemoveMovie"
+msgstr "Remove movie"
+
+# Button text for saving database
+# form_main_window.py
+msgid "SaveDB"
+msgstr "Save database"
